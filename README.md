@@ -1,6 +1,8 @@
-# ¡Hola! 👋 Soy Ducky
-
-Desarrollador full-stack — construyo aplicaciones y páginas web a medida, desde el backend hasta la puesta en producción.
+<h1 align="center">
+  ¡Hola! 👋
+  <br>
+  Soy Miguel Sanguña 😼
+</h1>
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con una media de 8.71/10 en el primer curso
@@ -27,7 +29,5 @@ Aplicación web de catálogo de películas y series.
 - Desplegada en producción sobre AWS EC2
 - Frontend en HTML/CSS/JS puro, con foco en rendimiento
 
+## 📊 Estadisticas de GitHub
 <img src="https://github-readme-stats-nu-sable-12.vercel.app/api?username=MiguelSg77&show_icons=true&theme=transparent&hide_border=true&title_color=D8B4FE&icon_color=D8B4FE&text_color=B794F6&count_private=true" width="49%" /> <img src="https://github-readme-stats-nu-sable-12.vercel.app/api/top-langs/?username=MiguelSg77&layout=compact&theme=transparent&hide_border=true&title_color=D8B4FE&text_color=B794F6&count_private=true" width="49%" />
-
-## 📫 Contacto
-[LinkedIn](#) · [Email](https://mail.google.com/mail/u/2/#inbox)

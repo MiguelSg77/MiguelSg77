@@ -27,9 +27,11 @@ Aplicación web de catálogo de películas y series.
 - Desplegada en producción sobre AWS EC2
 - Frontend en HTML/CSS/JS puro, con foco en rendimiento
 
-![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+[![Miguel GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MiguelSg77&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/MiguelSg77)
+[![Miguel GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MiguelSg77&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MiguelSg77)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+[![Top Lenguajes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiguelSg77&layout=compact&theme=nightowl#gh-dark-mode-only)](https://github.com/MiguelSg77)
+[![Top Lenguajes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiguelSg77&layout=compact&theme=default#gh-light-mode-only)](https://github.com/MiguelSg77)
 
 ## 📫 Contacto
 [LinkedIn](#) · [Email](https://mail.google.com/mail/u/2/#inbox)

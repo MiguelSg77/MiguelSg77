@@ -3,7 +3,7 @@
   <br>
   Soy Miguel Sanguña 😼
 </h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D8B4FE&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D8B4FE&height=110&section=header" width="100%" />
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), con una media de 8.71/10 en el primer curso
